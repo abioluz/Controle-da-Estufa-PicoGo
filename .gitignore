@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/Controle-da-Estufa-PicoGo.iml
+.idea/misc.xml
+.idea/.gitignore
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/libraries/MicroPython.xml
+.vscode/settings.json
+.vscode/Pico-Stub
+.vscode/extensions.json
+rp2-pico-20210902-v1.17.uf2
+.gitignore
+pico-go.json
+.gitignore
